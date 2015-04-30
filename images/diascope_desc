@@ -1,0 +1,7 @@
+format 1280x720@29 quality=1 aspect=16:9 mpeg4=1,0
+set dur=sec
+audio silence
+
+kbrn 0,30,0 IMG_3446.JPG xyw=512,384,512 xyw=0,0,2048 accel=1
+kbrn 0,30,0 IMG_3448.JPG xyw=1536,1152,512 xyw=0,0,2048 accel=1
+kbrn 0,30,0 IMG_3447.JPG xyw=512,384,512 xyw=0,0,2048 accel=1
